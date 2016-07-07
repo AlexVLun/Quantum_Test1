@@ -1,0 +1,6 @@
+C:\Users\Dell\Documents\GitHub\Quantum_Test1\Quantum_Test1\bin\Debug\Quantum_Test1.exe.config
+C:\Users\Dell\Documents\GitHub\Quantum_Test1\Quantum_Test1\obj\Debug\Quantum_Test1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\Quantum_Test1\Quantum_Test1\bin\Debug\Quantum_Test1.exe
+C:\Users\Dell\Documents\GitHub\Quantum_Test1\Quantum_Test1\bin\Debug\Quantum_Test1.pdb
+C:\Users\Dell\Documents\GitHub\Quantum_Test1\Quantum_Test1\obj\Debug\Quantum_Test1.exe
+C:\Users\Dell\Documents\GitHub\Quantum_Test1\Quantum_Test1\obj\Debug\Quantum_Test1.pdb
