@@ -37,7 +37,7 @@ namespace Quantum_Test1
         {
             List<TravelCard> ltcResult = new List<TravelCard>();
             
-            //----определяем место старта. В него не приезжаем ниоткуда (сложность N факториал)----
+            //----определяем место старта. В него не приезжаем ниоткуда----
             bool bStartFind = false;
             bool bFind = false;
             int iStartIndex = 0;
